@@ -1,0 +1,22 @@
+struktur 
+harus punya kondisi
+harus punya statement sesuai kondisi untuk di eksekusi jika benar/salah
+
+kondisi dan statemen:
+kondisi adalah syarat bila sebuah atau sekelompok pernyataan
+kondisi dibandikan dengan fakta, situasi yang mungkinterjadi atau sedang terjadi
+pengujian dilakukan untuk memilih salah satu  dari beberapa alternatif
+
+perintah yang dikaitkann dengankondisi
+hanya dilaksanakan hanya jika kondisi yang ditentukan telah terpenuhi
+
+if statemen:
+if..else statement
+nested if statements
+
+swisch statements:
+nested switch statement
+
+if statement (tunggal)
+struktur penulisan:
+if(kondisi\statement;
